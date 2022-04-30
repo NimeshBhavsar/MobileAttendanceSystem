@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_subjects">Courses</string>
+    <string name="title_activity_attendance_list">Attendances</string>
+    <string name="title_activity_subject_detail">Subject Detail</string>
+
+    <string name="hello_blank_fragment">Coming Soon</string>
+
+    <string name="tab_students">Students</string>
+    <string name="tab_attendances">Attendances</string>
+
+    <string name="menu_edit_subject">Edit Subject</string>
+    <string name="menu_edit_attendance">Edit Attendance</string>
+    <string name="menu_verify_attendance">Set Verified</string>
+    <string name="menu_add_student">Add Students</string>
+    <string name="menu_add_attendance">Add Attendance</string>
+    <string name="menu_end_session">End Session</string>
+    <string name="menu_edit_student">Edit Student</string>
+
+
+    <string name="crn">Reg. No.</string>
+    <string name="date">Date</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="name">Name</string>
+    <string name="subject">Course Code</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_que">Delete?</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="percent_symbol">%</string>
+    <string name="student_name">Student Name</string>
+    <string name="title">Title</string>
+    <string name="underscores">_________________</string>
+    <string name="add_attendance">New Attendance</string>
+    <string name="edit_attendance">Edit Attendance</string>
+    <string name="add_subject">%s Subject</string>
+    <string name="add_student">%s Student</string>
+    <string name="verify">Verify</string>
+    <string name="presence_percent">Presence %s %%</string>
+    <string name="days_count">Days : %s</string>
+    <string name="students_count">Students : %s</string>
+    <string name="subject_hint">e.g. CSE2001</string>
+    <style name="end_session">End Session</style>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+
+</resources>

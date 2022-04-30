@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_edit"
+        android:title="@string/menu_edit_subject"
+        android:icon="@drawable/ic_edit_white_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_add_student"
+        android:title="@string/menu_add_student"
+        android:icon="@drawable/ic_person_add_white_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_add_attendance"
+        android:title="@string/menu_add_attendance"
+        android:icon="@drawable/ic_playlist_add_check_white_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_end_session"
+        android:title="@string/menu_end_session"
+        android:icon="@drawable/ic_stop_white_24dp"
+        />
+</menu>

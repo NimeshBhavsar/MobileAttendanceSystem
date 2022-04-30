@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Presentation.Activities.Attendances.AttendanceListActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="114dp"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:collapsedTitleTextAppearance="@style/TextAppearance.AppCompat.Title"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleGravity="top"
+            app:expandedTitleMarginStart="@dimen/shrine_toolbar_offset_start"
+            app:expandedTitleMarginTop="@dimen/shrine_toolbar_offset_top"
+            app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Headline"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:title="@string/app_name">
+
+            <TextView
+                android:id="@+id/tvSubject"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="5dp"
+                android:text="Subject"
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Overline"
+                app:layout_collapseMode="parallax"
+                app:layout_collapseParallaxMultiplier="0.3" />
+
+            <TextView
+                android:id="@+id/tvGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|bottom"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="20dp"
+                android:text="Group"
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Overline"
+                app:layout_collapseMode="parallax"
+                app:layout_collapseParallaxMultiplier="0.2" />
+
+
+            <TextView
+                android:id="@+id/tvPresencePercent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|top"
+                android:layout_marginTop="60dp"
+                android:layout_marginRight="10dp"
+                android:text="Presence: "
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Caption"
+                app:layout_collapseMode="parallax"
+                app:layout_collapseParallaxMultiplier="0.2" />
+
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/shrine_toolbar_collapsed_height"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+            <!--              -->
+            <!---->
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+        <!--
+
+
+        -->
+        <!-- <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="bottom"
+             android:gravity="bottom"
+             android:orientation="vertical">
+
+         </LinearLayout>-->
+
+        <!--<androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+
+            app:layout_scrollFlags="scroll|enterAlwaysCollapsed|snap"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+            &lt;!&ndash;            android:layout_height="?attr/actionBarSize"
+            &ndash;&gt;
+
+
+        </androidx.appcompat.widget.Toolbar>-->
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <!--<com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </com.google.android.material.appbar.AppBarLayout>-->
+
+<!--    <include layout="@layout/content_attendance_list" />-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:background="#FFEAFE"
+        android:scrollbars="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/ic_edit_white_24dp"
+         />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabVerify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/refs"
+        />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabVerified"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@color/colorBlack"
+        android:src="@drawable/ic_verified_user_white_24dp"
+        />
+<!--    app:srcCompat="@android:drawable/ic_dialog_email"-->
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

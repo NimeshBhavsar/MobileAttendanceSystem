@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable-v23/checked.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/checked.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/custom_checkbox.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_check_green_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_check_grey_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_check_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_close_pink_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_close_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_date_range_black_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_edit_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_menu_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_person_add_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_person_grey_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_playlist_add_check_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_save_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_stop_black_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_stop_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_verified_user_black_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_verified_user_white_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/ic_warning_color_24dp.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/round_outline.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/drawable/unchecked.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_attendance_list.xml" value="0.2988679352838745" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_splash.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_student_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_subject_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/activity_subject_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/content_dialog_header.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_attendance_create.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_coming_soon.xml" value="0.1" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_day_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_student_create.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_student_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_subject_create.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/fragment_subject_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_attendance_create.xml" value="0.19924529018924966" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_attendance_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_day_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_student_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_student_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/layout/row_subject_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/menu/menu_attendance_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/menu/menu_session_list.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/menu/menu_student_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/menu/menu_subject_detail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.158" />
+        <entry key="..\:/Projects/Project Readymade/skrishnau attendance attendance-master/attendance-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.158" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

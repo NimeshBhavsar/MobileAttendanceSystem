@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/RowItem">
+
+    <LinearLayout style="@style/RowItemBody">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/date"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvPresencePercent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/presence_percent"
+                android:textSize="12sp"
+                android:typeface="monospace" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgVerified"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/ic_verified_user_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/btnOption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorTransparent"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?attr/selectableItemBackground"
+            android:padding="5dp"
+            android:src="@drawable/ic_more_vert_black_24dp" />
+    </LinearLayout>
+
+    <View style="@style/ItemSeparator" />
+
+</LinearLayout>
