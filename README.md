@@ -18,9 +18,9 @@ Mark subject sessions as ended
 
 This Project was done with a team of the following members:
 
-Nimesh Bhavsar github.com/NimeshBhavsar
+[Nimesh Bhavsar](github.com/NimeshBhavsar)
 
-Rohit Barik    github.com/RohitBarikk
+[Rohit Barik](github.com/RohitBarikk)
 
 Zaid
 
