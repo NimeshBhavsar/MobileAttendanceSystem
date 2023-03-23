@@ -31,7 +31,7 @@ The Mobile Attendance System is an Android application designed to simplify the 
 -Build and run the application on an Android device or emulator.
 
 ## Contribution Guidelines
-#####Contributions to the Mobile Attendance System are welcome and encouraged. If you would like to contribute, please do the following:
+##### Contributions to the Mobile Attendance System are welcome and encouraged. If you would like to contribute, please do the following:
 
 -Fork the repository.
 
